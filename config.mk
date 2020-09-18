@@ -1,1 +1,4 @@
-PRODUCT_PACKAGES += OnePlusCamera.apk
+PRODUCT_PACKAGES += \
+    OnePlusCamera \
+    OnePlusGallery \
+    OnePlusWeather
